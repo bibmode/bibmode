@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bibmode
+- 🎒 I'm currently a junior Computer Science student
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning the fundamentals of front-end web development (HTML, CSS, and Javascript)
 - 💞️ I’m looking to collaborate on fun projects that would be a great learning opportunity for me to better my skills and provide a valuable contribution to the world
