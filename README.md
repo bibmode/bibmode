@@ -1,3 +1,5 @@
+<h1>👋😁 **Heyy, this is Genevieve!**</h1>
+
 - 🎒 I'm currently a junior Computer Science student
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning the fundamentals of front-end web development (HTML, CSS, and Javascript)
