@@ -7,4 +7,4 @@
 - 💛2021 Goal: Improve significantly on CSS and Javascript. Hopefully, I can start learning React.js, too.
 
 <h2>My languages: </h2>
-HTML, CSS, Javascript & Sass
+- 👓 HTML, CSS, Javascript & Sass
