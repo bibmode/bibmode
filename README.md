@@ -4,7 +4,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on fun projects that would be a great learning opportunity for me to better my skills and provide a valuable contribution to the world
-- 💛2021 Goal: Improve significantly on CSS and Javascript. Hopefully, I can start learning React.js, too.
+- 💛2021 Goal: Improve significantly on the basics and be more proficient with React.
 
 <h2>My languages: </h2>
 - 👓 HTML, CSS, Javascript, Sass & React
