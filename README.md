@@ -29,6 +29,7 @@
 ## My GitHub Stats
 
  [![Bibmode's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibmode)](https://github.com/bibmode/github-readme-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bibmode)](https://git.io/streak-stats)
 
 ## Top Languages
   
