@@ -28,8 +28,8 @@
 
 ## My GitHub Stats
 
- [![Bibmode's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibmode)](https://github.com/bibmode/github-readme-stats)
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bibmode)](https://git.io/streak-stats)
+ <img src="https://github-readme-stats.vercel.app/api?username=bibmode&show_icons=true&theme=synthwave" alt="bibmode" width="45%" align="right"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bibmode&theme=dark" width="48%" >
 
 ## Top Languages
   
