@@ -28,8 +28,7 @@
 
 ## My GitHub Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=DawnMD&show_icons=true&theme=gotham" alt="DawnMD" width="45%" align="right"/>
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DawnMD&theme=dark" width="48%" >
+ [![Bibmode's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibmode)](https://github.com/bibmode/github-readme-stats)
 
 ## Top Languages
   
