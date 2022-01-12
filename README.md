@@ -5,7 +5,7 @@
 - 🌱 I’m currently dabbling in NextJS
 - 💞️ I’m looking to collaborate on fun projects that would be a great learning opportunity for me to better my skills and widen my network
 - 😄 Pronouns: She/Her
-- 💛2021 Goal: Improve significantly on the basics and be more proficient with React.
+- 💛2022 Goal: Work on building my portfolio project ideas
 - 📫 How to reach me: <a href="mailto:vievenavales29@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ## Tech Stack
