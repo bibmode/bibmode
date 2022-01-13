@@ -28,4 +28,4 @@
 
 ## Top Languages
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibmode)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibmode&layout=compact)
