@@ -1,11 +1,9 @@
-<h1>👋😁 Heyy, this is Genevieve!~</h1>
+<h1>👋😁 Hi there, I'm Genevieve Navales!</h1>
 
-- 🎒 I'm currently a junior Computer Science student, will be graduating on 2023
-- 👀 Knowledgeable in: React, CSS, JavaScript
-- 🌱 I’m currently dabbling in NextJS
-- 💞️ I’m looking to collaborate on fun projects that would be a great learning opportunity for me to better my skills and widen my network
-- 😄 Pronouns: She/Her
-- 💛2022 Goal: Work on building my portfolio project ideas
+- 🎓 Graduated magna cum laude in Computer Science from Caraga State University
+- 💼 I'm currently searching for a job
+- 🚀 Enthusiastic about startups, innovative technologies, and building projects that make an impact
+- 💛 2023 Goal: Land a remote job
 - 📫 How to reach me: <a href="mailto:vievenavales29@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ## Tech Stack
@@ -24,8 +22,6 @@
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
   <img alt="supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  
-  
 </p>
 
 ## My GitHub Stats
