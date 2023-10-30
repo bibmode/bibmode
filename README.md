@@ -1,6 +1,6 @@
 <h1>👋😁 Hi there, I'm Genevieve Navales!</h1>
 
-- 🎓 Graduated magna cum laude in Computer Science from Caraga State University
+- 🎓 Graduated magna cum laude in BS Computer Science from Caraga State University
 - 💼 I'm currently looking to secure a job in Flutter app development or Web Development (ReactJS/NextJS)
 - 🚀 Enthusiastic about startups, innovative technologies, and building projects that make an impact
 - 💛 2023 Goal: Read atleast 3 books per month
