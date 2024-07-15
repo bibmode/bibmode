@@ -1,7 +1,6 @@
 <h1>👋😁 Hi there, I'm Genevieve Navales!</h1>
 
 - 🎓 Graduated magna cum laude in BS Computer Science from Caraga State University
-- 💼 I'm currently looking to secure a job in Flutter app development or Web Development (ReactJS/NextJS)
 - 🚀 Enthusiastic about startups, innovative technologies, and building projects that make an impact
 - 💛 2023 Goal: Read atleast 3 books per month
 - 📫 How to reach me: <a href="mailto:vievenavales29@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
